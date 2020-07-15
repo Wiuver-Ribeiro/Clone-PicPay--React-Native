@@ -1,6 +1,6 @@
 # PicPay Clone | React Native 
  Este código demonstra um clone de uma aplicação chamada 'PicPay', feita em React Native, utilizando Styled Components e React Navigation 5 para fins de aprendizagem.
- Este projeto utiliza o Expo, para poder realizar a emulação do Aplicativo criado diretamente em seu própio Smartphone.
+ Este projeto utiliza o [Expo](https://expo.io/), para poder realizar a emulação do Aplicativo criado diretamente em seu própio Smartphone.
  
 ## Dependências:
 Como requisito para rodar o projeto, você precisará de ter o [NodeJs](https://nodejs.org/en/) instalado em sua máquina.
@@ -23,6 +23,9 @@ Como requisito para rodar o projeto, você precisará de ter o [NodeJs](https://
  ```git
     $ npm start | ou | yarn start
  ```
+ ### Emulando o Aplicativo direto no Smartphone:
+ Para emular o aplicativo diretamente no seu celular, instale o [Expo](https://apps.apple.com/br/app/expo-client/id982107779) para IOs
+ e para Android [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR).
  
  ### Rodando a Aplicação em um emulador:
  Para executar a aplicação em um emulador é necessário utilizar [Android Studio](https://developer.android.com/studio) caso você estiver utilizando Windows/Linux
